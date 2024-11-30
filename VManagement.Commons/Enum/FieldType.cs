@@ -1,0 +1,39 @@
+﻿namespace VManagement.Commons.Enum
+{
+    internal enum FieldType
+    {
+        BIGINT,
+        BINARY,
+        BIT,
+        CHAR,
+        DATE, 
+        DATETIME,
+        DATETIME2,
+        DATETIMEOFFSET,
+        DECIMAL,
+        FLOAT,
+        GEOGRAPHY,
+        GEOMETRY,
+        HIERARCHYID,
+        IMAGE,
+        INT,
+        MONEY,
+        NCHAR,
+        NTEXT,
+        NUMERIC,
+        NVARCHAR,
+        REAL,
+        SMALLDATETIME,
+        SMALLINT,
+        SMALLMONEY,
+        SQL_VARIANT,
+        TEXT,
+        TIME,
+        TIMESTAMP,
+        TINYINT,
+        UNIQUEIDENTIFIER,
+        VARBINARY,
+        VARCHAR,
+        XML
+    }
+}
